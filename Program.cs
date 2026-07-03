@@ -20,6 +20,7 @@ namespace Simplecalculator
                 Console.Write("Podaj pierwszą liczbę: ");
                 double a = double.Parse(Console.ReadLine());
 
+
                 Console.Write("Podaj drugą liczbę: ");
                 double b = double.Parse(Console.ReadLine());
 
