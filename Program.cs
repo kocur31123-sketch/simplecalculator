@@ -24,6 +24,9 @@ namespace Simplecalculator
                 Console.Write("Podaj drugą liczbę: ");
                 double b = double.Parse(Console.ReadLine());
 
+
+
+
                 Console.WriteLine("Wybierz działanie (+, -, *, /): ");
                 char op = Console.ReadKey().KeyChar;
                 Console.WriteLine();
